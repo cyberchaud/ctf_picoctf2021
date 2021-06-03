@@ -1,0 +1,5 @@
+Fairly simple to solve.
+
+Connected to the terminal as per directions.
+
+Did an ls and followed the trail until flag was pieced together.

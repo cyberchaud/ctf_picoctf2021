@@ -1,0 +1,5 @@
+Used strings and saw that there is a zip file included in the file.
+
+Used binwalk to confirm.
+
+Tried to unzip the file and unzip worked. Kept unziping the extracted files until I found the flag.
